@@ -218,5 +218,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Made with ❤️ by the Cypher AI team.
+  Made with ❤️ by Kencypher :>.
 </p>
