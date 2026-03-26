@@ -1,10 +1,3 @@
-We'll now create an improved `README.md` tailored for GitHub, with better structure, emojis, and clear instructions reflecting the new genre feature and conda/venv setup.
-
----
-
-## `README.md` (Improved)
-
-```markdown
 <!-- markdownlint-disable MD033 -->
 <h1 align="center">
   Cypher AI Book Generator
@@ -227,4 +220,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <p align="center">
   Made with ❤️ by the Cypher AI team.
 </p>
-```
