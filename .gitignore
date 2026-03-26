@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Virtual environments
+env/
+venv/
+.venv/
+conda-env/
+*.env
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python package managers
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Mac / Linux hidden files
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files (optional, since you generate PDFs/DOCs on Desktop)
+# *.pdf
+# *.docx
+
+# Ollama / model files (optional if large)
+# .ollama/
+
+# Cypher specific logs (if any)
+cypher_aibookgenerator.log
