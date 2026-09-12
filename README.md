@@ -20,7 +20,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10-blue.svg" alt="Python 3.10">
   <img src="https://img.shields.io/badge/ollama-llama3.2:3b-green" alt="Ollama">
-  <img src="https://img.shields.io/badge/license-MIT-yellow.svg" alt="License">
   <img src="https://img.shields.io/badge/environment-venv%20%7C%20conda-blue" alt="Environment">
 </p>
 
