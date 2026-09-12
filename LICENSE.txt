@@ -1,0 +1,44 @@
+CYPHER PROJECTS - LICENCE
+Copyright (c) 2026 Kencypher (Muhammad Waleed Amjad). All rights reserved.
+
+FREE TO USE. NOT OPEN SOURCE.
+
+This project was written by Kencypher, sole author and sole copyright holder.
+The source is readable here because the repository is public. Being able to
+read it is not permission to reuse it.
+
+YOU MAY
+  - Run it, for anything, including commercial work.
+  - Read the source to learn from it.
+  - Link to this repository.
+
+YOU MAY NOT, WITHOUT WRITTEN PERMISSION
+  - Sell it, or charge anyone for access to it.
+  - Re-upload, mirror or redistribute it, in whole or in part.
+  - Publish it under another name, or present it as your own work.
+  - Claim authorship of it.
+  - Copy its code into your own project and release that.
+  - Remove or alter this notice, or the author's name anywhere it appears.
+
+Permission is asked for, not assumed: kencypher56@gmail.com
+The answer is usually yes.
+
+IF YOU BREAK THIS
+  Copyright in this work belongs to Kencypher and is protected without
+  registration under the Berne Convention. Re-uploading it, repackaging it,
+  stripping the author's name from it or passing it off as your own is
+  copyright infringement, and is pursued: DMCA takedowns to the host and
+  the platform, reports for impersonation, and legal proceedings where the
+  infringement is commercial, repeated, or involves falsely claiming
+  authorship.
+
+THIRD-PARTY COMPONENTS
+  This project may depend on software written by others - those components
+  remain under their own licences, held by their own authors. Nothing here
+  claims any right over them.
+
+NO WARRANTY
+  Provided as is, without warranty of any kind. The author is not liable for
+  any claim or damages arising from the software or its use.
+
+Downloads and the rest of the work: https://cypherstore.netlify.app
