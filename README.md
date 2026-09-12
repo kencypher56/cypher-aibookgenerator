@@ -188,17 +188,15 @@ All Python dependencies are listed in `requirements.txt` and are installed autom
 
 ---
 
-## 🤝 Contributing
+## 🤝 Feedback
 
-Contributions are welcome! Please follow these steps:
+Code contributions are not accepted: forks and pull requests cannot be taken
+in, because the licence keeps authorship in one pair of hands. What genuinely
+helps:
 
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature/amazing-feature`.
-3. Commit your changes: `git commit -m 'Add some amazing feature'`.
-4. Push to the branch: `git push origin feature/amazing-feature`.
-5. Open a Pull Request.
-
-Make sure to adhere to the existing code style and include tests if applicable.
+1. 🐛 Open an issue when something breaks, with the steps that broke it
+2. 💡 Open an issue for a feature you want — these get built
+3. 📣 Point people at the only true source for this software: <https://cypherstore.netlify.app>
 
 ---
 
