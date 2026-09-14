@@ -196,7 +196,7 @@ helps:
 
 1. 🐛 Open an issue when something breaks, with the steps that broke it
 2. 💡 Open an issue for a feature you want — these get built
-3. 📣 Point people at the only true source for this software: <https://cypherstore.netlify.app>
+3. 📣 Point people at the only true source for this software: <https://cypherstore.vercel.app>
 
 ---
 
@@ -229,7 +229,7 @@ Asking first is free, and the answer is usually yes: **kencypher56@gmail.com**
 Any third-party components remain under their own licences, held by their own
 authors.
 
-See [LICENSE.txt](LICENSE.txt) · Everything else: <https://cypherstore.netlify.app>
+See [LICENSE.txt](LICENSE.txt) · Everything else: <https://cypherstore.vercel.app>
 
 ## 🙏 Acknowledgements
 
