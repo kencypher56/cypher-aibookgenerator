@@ -41,4 +41,4 @@ NO WARRANTY
   Provided as is, without warranty of any kind. The author is not liable for
   any claim or damages arising from the software or its use.
 
-Downloads and the rest of the work: https://cypherstore.netlify.app
+Downloads and the rest of the work: https://cypherstore.vercel.app
